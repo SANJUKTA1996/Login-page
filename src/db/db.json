@@ -1,0 +1,58 @@
+{
+  "users": [
+    {
+      "email": "sanju@01",
+      "password": "12345",
+      "name": "sanjukta",
+      "id": 1
+    },
+    {
+      "email": "satya@02",
+      "password": "23456",
+      "name": "satya",
+      "id": 2
+    },
+    {
+      "email": "jhansi@03",
+      "password": "34567",
+      "name": "jhansi",
+      "id": 3
+    },
+    {
+      "email": "anirudha@04",
+      "password": "45678",
+      "name": "anirudha",
+      "id": 4
+    },
+    {
+      "email": "ranjuita@05",
+      "password": "56789",
+      "name": "ranjuta",
+      "id": 5
+    },
+    {
+      "email": "sanju@01",
+      "password": "12345",
+      "name": "sanju",
+      "id": 6
+    },
+    {
+      "email": "tiki@01",
+      "password": "3456",
+      "name": "tiki",
+      "id": 7
+    },
+    {
+      "email": "",
+      "password": "",
+      "name": "",
+      "id": 8
+    },
+    {
+      "email": "",
+      "password": "",
+      "name": "",
+      "id": 9
+    }
+  ]
+}
